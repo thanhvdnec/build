@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5696ba10.css",
+    "main.js": "/static/js/main.f323a91a.js",
+    "static/media/page-2.jpg": "/static/media/page-2.6a7624b80be81c30c106.jpg",
+    "static/media/slide (34).jpg": "/static/media/slide (34).e349df548dbfbb75573e.jpg",
+    "static/media/slide (38).jpg": "/static/media/slide (38).30eafbf3584481eb91a4.jpg",
+    "static/media/page-7.jpg": "/static/media/page-7.ca7aa082b84ec1eab0d8.jpg",
+    "static/media/page-1.jpg": "/static/media/page-1.bbc27e7d2d8ede151383.jpg",
+    "static/media/slide (29).jpg": "/static/media/slide (29).2b8817249825c0c2a93e.jpg",
+    "static/media/page-8.jpg": "/static/media/page-8.65b84a14ab7f52296250.jpg",
+    "static/media/slide (3).jpg": "/static/media/slide (3).63bdbdbed31a274ed21e.jpg",
+    "static/media/page-5.jpg": "/static/media/page-5.fd1feb781f66093de96c.jpg",
+    "static/media/page-6.jpg": "/static/media/page-6.0d5da05e8b717456c551.jpg",
+    "static/media/slide (11).jpg": "/static/media/slide (11).0d5da05e8b717456c551.jpg",
+    "static/media/page-10.jpg": "/static/media/page-10.494f99b18b069f999341.jpg",
+    "static/media/slide (10).jpg": "/static/media/slide (10).c15066058b912403f6cd.jpg",
+    "static/media/page-4.jpg": "/static/media/page-4.f10de33bd46d966e36b9.jpg",
+    "static/media/page-3.jpg": "/static/media/page-3.a488a914e0673745e0f7.jpg",
+    "static/media/slide (16).jpg": "/static/media/slide (16).41c946ae836da0e5b9c2.jpg",
+    "static/media/slide (25).jpg": "/static/media/slide (25).1a26d11c5f1f73bb583d.jpg",
+    "static/media/page-0.jpg": "/static/media/page-0.999c0a28114c50764c5e.jpg",
+    "static/media/slide (12).jpg": "/static/media/slide (12).999c0a28114c50764c5e.jpg",
+    "static/media/slide (31).jpg": "/static/media/slide (31).aa19b40ad24d3ed118d7.jpg",
+    "static/media/slide (36).jpg": "/static/media/slide (36).27137611501581703e87.jpg",
+    "static/media/slide (32).jpg": "/static/media/slide (32).d6886b6da88a22291401.jpg",
+    "static/media/blank-people.png": "/static/media/blank-people.860334226525d1bb8fbf.png",
+    "index.html": "/index.html",
+    "main.5696ba10.css.map": "/static/css/main.5696ba10.css.map",
+    "main.f323a91a.js.map": "/static/js/main.f323a91a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5696ba10.css",
+    "static/js/main.f323a91a.js"
+  ]
+}
